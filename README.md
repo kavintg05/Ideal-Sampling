@@ -209,7 +209,8 @@ plt.show()
 ```
 # Output Waveform
 ## Ideal Sampling
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/e29805dd-4c4f-472b-92cf-eff7d933ff91" />
+<img width="866" height="393" alt="dc 0" src="https://github.com/user-attachments/assets/88104e38-438f-4493-98f9-a3ce8fec4a74" />
+
 
 
 ## Natural Sampling
